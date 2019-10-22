@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Learn React",
+      "description": "2019 Updates(including redux)",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Using plain router and history",
+      "userId": "104110779517437230106",
+      "id": 3
+    }
+  ]
+}
